@@ -1,4 +1,4 @@
-# LINQ Fonksiyonları ve Emoji İllüstrasyonları 🚀📊
+# LINQ Fonksiyonları 🚀📊
 
 * 1-) Take(): Koleksiyon içerisindeki verilerin sadece belirtilen sayıda elemanını alır. 📦
 
